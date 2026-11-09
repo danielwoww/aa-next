@@ -2,7 +2,7 @@
 
 **Big, forgiving media buttons for Android Auto on aftermarket Android head units running ZLINK.**
 
-In the Android Auto split screen (e.g. Waze + Spotify), the media card's Next button is small. Miss it and the tap lands on the card, Android Auto switches to full-screen Spotify, and your map is gone. That's annoying and distracting while driving.
+In the Android Auto split screen (e.g. Waze + Spotify), the media card's Next button is small. Miss it and the tap lands on the card, Android Auto switches to full-screen Spotify. That's annoying and distracting while driving.
 
 AA Next is a small app for the **head unit** (not the phone). It puts an invisible panel over the media card:
 
