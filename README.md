@@ -16,9 +16,6 @@ Your normal Android Auto stays untouched: same apps, same split screen, same ZLI
 |:---:|:---:|:---:|
 | ![NEXT zone](docs/screenshots/next.jpg) | ![PLAY/PAUSE zone](docs/screenshots/play_pause.jpg) | ![PREV zone](docs/screenshots/prev.jpg) |
 
-![Split screen stays as it is](docs/screenshots/overview.jpg)
-<sub>The Waze map is blurred for privacy. The faint outlines are optional and the zones flash when tapped.</sub>
-
 ## How it works
 
 ZLINK shows Android Auto as a video stream on the head unit and forwards touches to the phone. The head unit itself is plain Android, so AA Next can:
