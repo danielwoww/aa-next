@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AA Next</string>
+    <string name="accessibility_desc">Puts a large Next-track zone over the Android Auto media card in ZLINK and blocks near-miss taps so Spotify never opens full screen. Only reads which app is in front.</string>
+</resources>
